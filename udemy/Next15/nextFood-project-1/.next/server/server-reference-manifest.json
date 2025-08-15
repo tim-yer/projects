@@ -1,0 +1,14 @@
+{
+  "node": {
+    "73836244ac6422b14c98c439969310f36b2b2faa": {
+      "workers": {
+        "app/meals/share/page": "(action-browser)/./node_modules/next/dist/build/webpack/loaders/next-flight-action-entry-loader.js?actions=%5B%5B%22%2FUsers%2Ftimur.yergibayev%2FEducProject%2Fnext15%2FnextFood-project-1%2Flib%2Factions.js%22%2C%5B%22shareMeal%22%5D%5D%5D&__client_imported__=true!"
+      },
+      "layer": {
+        "app/meals/share/page": "action-browser"
+      }
+    }
+  },
+  "edge": {},
+  "encryptionKey": "Bmqz/gmXE5i9AbY3u349c+ALKHg0fQP5C+zHzs10zzc="
+}
