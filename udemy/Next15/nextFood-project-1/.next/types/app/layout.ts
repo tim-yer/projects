@@ -1,4 +1,4 @@
-// File: /Users/timur.yergibayev/EducProject/next15/nextFood-project-1/app/layout.js
+// File: /Users/tyergibayev/WebstormProjects/projects/udemy/Next15/nextFood-project-1/app/layout.js
 import * as entry from '../../../app/layout.js'
 import type { ResolvingMetadata, ResolvingViewport } from 'next/dist/lib/metadata/types/metadata-interface.js'
 
