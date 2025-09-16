@@ -1,0 +1,16 @@
+{
+  "node": {
+    "7f5f166cbf881f34a5ee27a39ec7c9ebc6d07c1ac0": {
+      "workers": {
+        "app/feed/page": {
+          "moduleId": "[project]/.next-internal/server/app/feed/page/actions.js { ACTIONS_MODULE0 => \"[project]/actions/posts.js [app-rsc] (ecmascript)\" } [app-rsc] (server actions loader, ecmascript)",
+          "async": false
+        }
+      },
+      "layer": {
+        "app/feed/page": "action-browser"
+      }
+    }
+  },
+  "edge": {}
+}

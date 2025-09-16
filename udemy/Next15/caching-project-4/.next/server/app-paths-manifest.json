@@ -1,0 +1,6 @@
+{
+  "/icon.png/route": "app/icon.png/route.js",
+  "/page": "app/page.js",
+  "/messages/new/page": "app/messages/new/page.js",
+  "/messages/page": "app/messages/page.js"
+}
